@@ -19,3 +19,11 @@ This repository contains files and resources for testing ZMK-related workflows.
 - This file is for testing only.
 - Update as needed for actual project documentation.
 - Cirque trackpad module (cirque-input-module) has been added to the project.
+
+## Recent Changes
+
+### Cirque Trackpad Integration
+- Added `cirque-input-module` repository to `west.yml` (petejohanson remote, main branch)
+- Enabled pointing device support in `splitkb_aurora_sofle.conf`:
+  - `CONFIG_ZMK_POINTING=y`
+  - `CONFIG_INPUT=y`
