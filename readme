@@ -1,0 +1,20 @@
+# ZMK Testing Readme
+
+This repository contains files and resources for testing ZMK-related workflows.
+
+## Purpose
+
+- Validate repository structure
+- Confirm tooling compatibility
+- Run basic test cases
+
+## Usage
+
+1. Clone or open the repository.
+2. Add test data or scripts.
+3. Run validation commands.
+
+## Notes
+
+- This file is for testing only.
+- Update as needed for actual project documentation.
