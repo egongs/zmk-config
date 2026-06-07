@@ -7,3 +7,10 @@
         status = "okay";
     };
 };
+
+/ {
+    trackpad_listener {
+        compatible = "zmk,input-listener";
+        device = <&cirque_trackpad>;
+    };
+};
